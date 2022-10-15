@@ -19,7 +19,9 @@ sklearn
 # Files
 
 wine.data: database that has been used for this project
+
 Wine-data.ipynb: code that is wrriten for this project
+
 # Results
 
 LG has the most accurate prediction, and then SVM, MDC, and KNN are in seond, third, and forth levels. However, all the algorithms have acceptable results, and without using other features we are able to predict the model. 
