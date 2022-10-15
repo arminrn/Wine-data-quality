@@ -2,7 +2,7 @@
 
 # Description
 
-These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines. So it contains 13 feature and 178 instances
+These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines. So it contains 13 feature and 178 instances, in order to classify the records, we need to use classification models. In this project we will use 4 different algorithm. KNN, MDC, SVM, and LG will be implement and at the end the results will be compared.
 
 # Libraries
 
